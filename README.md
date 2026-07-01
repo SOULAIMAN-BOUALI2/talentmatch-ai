@@ -118,7 +118,7 @@ http://127.0.0.1:8000/docs
 
 Ouvrir un deuxième terminal.
 
-Activer l'environnement :
+Activer l'environnement et éxecuter cette commande :
 
 ```bash
 venv\Scripts\activate
