@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+
+# Database
+*.db
+
+# Uploaded CVs
+storage/cvs/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
